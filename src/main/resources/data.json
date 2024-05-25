@@ -1,0 +1,24 @@
+[
+  {
+    "firstName": "Jorge",
+    "secondName": "Eliecer",
+    "firstSurname": "Gaitan",
+    "secondSurname": "Heredia",
+    "phone": 3002270004,
+    "address": "Cra 123",
+    "cityResident": "Bogotá",
+    "identificationType": "C",
+    "userId": 23445322
+  },
+  {
+    "firstName": "Maria",
+    "secondName": "Josefa",
+    "firstSurname": "Perez",
+    "secondSurname": "Gomez",
+    "phone": 3002270005,
+    "address": "Cra 456",
+    "cityResident": "Medellín",
+    "identificationType": "P",
+    "userId": 12345678
+  }
+]
